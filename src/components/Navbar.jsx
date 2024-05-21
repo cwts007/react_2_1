@@ -6,7 +6,7 @@ function Navbar() {
         <nav>
             <ul>
                 <li>
-                    <img src="../src/assets/images/home.png" alt="" /><Link to="/">Home</Link>
+                    <img src="./src/assets/images/home.png" alt="" /><Link to="/">Home</Link>
                 </li>
                 <li>
                     <img src="./src/assets/images/contact.png" alt="" /><Link to="/contacto">Contacto</Link>

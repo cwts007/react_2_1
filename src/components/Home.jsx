@@ -10,7 +10,7 @@ function Home() {
             </div>
 
             <h3>El lugar de los pasteles felices</h3>
-            <img src="../assets/images/cake.png" alt="Pastel" />
+            <img src="./src/assets/images/cake.png" alt="Pastel" />
         </div>
     );
 }
