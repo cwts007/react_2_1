@@ -1,8 +1,3 @@
-# React + Vite
+Este proyecto es una aplicación web básica desarrollada con React que consta de tres páginas: inicio, contacto y una página de "404" para rutas inexistentes. Se utiliza React Router para la navegación, específicamente HashRouter en lugar de BrowserRouter por compatibilidad con el despliegue en GitHub Pages. La aplicación tiene una barra de navegación y un pie de página, y su estructura se organiza en componentes reutilizables y vistas principales.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Fue desarrollada para el desafio 1 de React II de desaafio_latam G65
