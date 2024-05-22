@@ -6,7 +6,6 @@ body {
   flex-direction: column;
   min-height: 100vh;
   padding-bottom: 60px;
-
 }
 
 nav {
@@ -87,7 +86,7 @@ form {
 }
 
 .container img {
-  height: 150px;
+  height: 500px;
 }
 
 label {
@@ -142,5 +141,15 @@ footer a {
 
 footer a:hover {
   color: greenyellow;
+}
 
+
+.container_not_found {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  
 }
