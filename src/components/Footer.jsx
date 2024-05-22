@@ -7,7 +7,7 @@ function Footer() {
             <p>© {year} Christopher W. Thompson Stone. Todos los derechos reservados.</p>
             <p>
                 Visita mi GitHub:{' '}
-                <a href="https://github.com/cwts007" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/cwts007">
                     cwts007
                 </a>
             </p>
